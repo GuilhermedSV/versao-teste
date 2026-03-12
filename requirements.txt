@@ -1,0 +1,8 @@
+Flask
+gunicorn
+streamlit
+pandas
+supabase
+st-supabase-connection
+requests
+openpyxl
